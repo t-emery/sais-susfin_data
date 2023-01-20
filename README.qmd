@@ -8,3 +8,5 @@ editor: visual
 # Introduction
 
 This page will house mini datasets used for teaching applied data analysis for **Sustainable Finance: Applications and Methods at [Johns Hopkins SAIS](https://sais.jhu.edu/).**
+
+![SAIS - Sustainable Finance: Applications and Methods](images/SAIS%20Course%20-%20Cover%20Art.png){fig-align="center"}
