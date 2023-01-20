@@ -2,6 +2,7 @@
 title: "SAIS - Sustainable Finance: Applications & Methods - Data Repo"
 author: "Teal Emery"
 format: gfm
+toc: true
 editor: visual
 ---
 
