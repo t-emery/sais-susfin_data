@@ -1,0 +1,218 @@
+country_name,iso3c,wb_income_group,wb_region,debt_gross_percent_of_gdp,nominal_gdp_bn_ppp,nominal_gdp_per_capita_ppp,population_mn
+Aruba,ABW,High,Latin America & Caribbean,95.042,5.066,46308.66,0.109
+Afghanistan,AFG,Low,South Asia,7.397,80.912,2456.29,32.941
+Angola,AGO,Lower Middle,Sub-Saharan Africa,56.564,245.442,7455.47,32.921
+Albania,ALB,Upper Middle,Europe & Central Asia,70.278,51.189,17858.42,2.866
+Andorra,AND,High,Europe & Central Asia,43.05,5.301,65371.54,0.081
+United Arab Emirates,ARE,High,Middle East & North Africa,30.741,814.733,77272.3,10.544
+Argentina,ARG,Upper Middle,Latin America & Caribbean,76.015,1207.23,26073.8,46.3
+Armenia,ARM,Upper Middle,Europe & Central Asia,52.346,49.767,16798,2.963
+American Samoa,ASM,Upper Middle,East Asia & Pacific,NA,NA,NA,NA
+Antigua & Barbuda,ATG,High,Latin America & Caribbean,91.242,2.224,22070.36,0.101
+Australia,AUS,High,East Asia & Pacific,56.733,1615.29,62191.59,25.973
+Austria,AUT,High,Europe & Central Asia,78.532,599.47,66680.12,8.99
+Azerbaijan,AZE,Upper Middle,Europe & Central Asia,20.661,178.679,17448.2,10.241
+Burundi,BDI,Low,Sub-Saharan Africa,66.372,10.898,865.04,12.598
+Belgium,BEL,High,Europe & Central Asia,103.929,723.09,62065.14,11.651
+Benin,BEN,Lower Middle,Sub-Saharan Africa,54.847,53.699,4182.9,12.838
+Burkina Faso,BFA,Low,Sub-Saharan Africa,59.558,58.812,2655.6,22.147
+Bangladesh,BGD,Lower Middle,South Asia,37.497,1345.65,7985.1,168.52
+Bulgaria,BGR,Upper Middle,Europe & Central Asia,22.815,198.349,29177.96,6.798
+Bahrain,BHR,High,Middle East & North Africa,119.496,87.905,57921.47,1.518
+Bahamas,BHS,High,Latin America & Caribbean,90.658,15.661,39784.89,0.394
+Bosnia & Herzegovina,BIH,Upper Middle,Europe & Central Asia,31.8,62.165,17899.1,3.473
+Belarus,BLR,Upper Middle,Europe & Central Asia,34.982,201.967,21709.28,9.303
+Belize,BLZ,Upper Middle,Latin America & Caribbean,76.304,4.224,9622.88,0.439
+Bermuda,BMU,High,North America,NA,NA,NA,NA
+Bolivia,BOL,Lower Middle,Latin America & Caribbean,82.578,118.802,9933.29,11.96
+Brazil,BRA,Upper Middle,Latin America & Caribbean,88.191,3782.76,17683.84,213.911
+Barbados,BRB,High,Latin America & Caribbean,117.88,5.01,17313.74,0.289
+Brunei,BRN,High,East Asia & Pacific,1.866,31.904,74195.97,0.43
+Bhutan,BTN,Lower Middle,South Asia,130.792,9.937,13077.4,0.76
+Botswana,BWA,Upper Middle,Sub-Saharan Africa,21.255,47.046,19198.58,2.45
+Central African Republic,CAF,Low,Sub-Saharan Africa,52.113,5.46,1088.29,5.017
+Canada,CAN,High,North America,102.198,2240.39,57827.45,38.743
+Switzerland,CHE,High,Europe & Central Asia,40.266,737.838,84468.91,8.735
+Channel Islands,CHI,High,Europe & Central Asia,NA,NA,NA,NA
+Chile,CHL,High,Latin America & Caribbean,36.154,575.516,28887.5,19.923
+China,CHN,Upper Middle,East Asia & Pacific,76.894,30074.38,21290.89,1412.55
+Côte d’Ivoire,CIV,Lower Middle,Sub-Saharan Africa,56.028,181.533,6397,28.378
+Cameroon,CMR,Lower Middle,Sub-Saharan Africa,46.754,123.341,4418.99,27.912
+Congo - Kinshasa,COD,Low,Sub-Saharan Africa,14.657,128.535,1327.83,96.801
+Congo - Brazzaville,COG,Lower Middle,Sub-Saharan Africa,82.021,23.031,4682.25,4.919
+Colombia,COL,Upper Middle,Latin America & Caribbean,61.113,964.743,18693.14,51.609
+Comoros,COM,Lower Middle,Sub-Saharan Africa,34.514,3.214,3364.33,0.955
+Cape Verde,CPV,Lower Middle,Sub-Saharan Africa,154.475,4.823,8459.81,0.57
+Costa Rica,CRI,Upper Middle,Latin America & Caribbean,67.562,129.95,24836.58,5.232
+Cuba,CUB,Upper Middle,Latin America & Caribbean,NA,NA,NA,NA
+Curaçao,CUW,High,Latin America & Caribbean,NA,NA,NA,NA
+Cayman Islands,CYM,High,Latin America & Caribbean,NA,NA,NA,NA
+Cyprus,CYP,High,Europe & Central Asia,93.628,44.762,49504.44,0.904
+Czechia,CZE,High,Europe & Central Asia,41.468,514.732,48918.58,10.522
+Germany,DEU,High,Europe & Central Asia,71.112,5316.93,63834.86,83.292
+Djibouti,DJI,Lower Middle,Middle East & North Africa,50.055,6.619,6513.86,1.016
+Dominica,DMA,Upper Middle,Latin America & Caribbean,102.795,0.966,13030.07,0.074
+Denmark,DNK,High,Europe & Central Asia,31.751,411.039,69845.09,5.885
+Dominican Republic,DOM,Upper Middle,Latin America & Caribbean,58.353,256.446,24119.55,10.632
+Algeria,DZA,Lower Middle,Middle East & North Africa,62.747,600.668,13323.93,45.082
+Ecuador,ECU,Upper Middle,Latin America & Caribbean,58.908,229.815,12763.08,18.006
+Egypt,EGY,Lower Middle,Middle East & North Africa,89.153,1661.96,15958.55,104.142
+Eritrea,ERI,Low,Sub-Saharan Africa,164.746,7.611,2078.44,3.662
+Spain,ESP,High,Europe & Central Asia,113.571,2215.99,46551.16,47.603
+Estonia,EST,High,Europe & Central Asia,18.316,61.389,46125.98,1.331
+Ethiopia,ETH,Low,Sub-Saharan Africa,46.371,347.847,3433.96,101.296
+Finland,FIN,High,Europe & Central Asia,66.674,324.829,58659,5.538
+Fiji,FJI,Upper Middle,East Asia & Pacific,91.252,12.685,13943.67,0.91
+France,FRA,High,Europe & Central Asia,111.827,3688.32,56199.9,65.629
+Faroe Islands,FRO,High,Europe & Central Asia,NA,NA,NA,NA
+Micronesia (Federated States of),FSM,Lower Middle,East Asia & Pacific,14.21,0.386,3675.09,0.105
+Gabon,GAB,Upper Middle,Sub-Saharan Africa,53.951,39.093,18088.44,2.161
+United Kingdom,GBR,High,Europe & Central Asia,86.99,3776.04,55862.09,67.596
+Georgia,GEO,Upper Middle,Europe & Central Asia,39.832,73.579,19788.5,3.718
+Ghana,GHA,Lower Middle,Sub-Saharan Africa,90.739,217.525,6780.28,32.082
+Gibraltar,GIB,High,Europe & Central Asia,NA,NA,NA,NA
+Guinea,GIN,Low,Sub-Saharan Africa,39.033,43.922,2993.08,14.674
+Gambia,GMB,Low,Sub-Saharan Africa,80.561,6.776,2639.8,2.567
+Guinea-Bissau,GNB,Low,Sub-Saharan Africa,82.039,5.406,2850.7,1.896
+Equatorial Guinea,GNQ,Upper Middle,Sub-Saharan Africa,27.06,29.117,19433.23,1.498
+Greece,GRC,High,Europe & Central Asia,177.591,387.801,36465.54,10.635
+Grenada,GRD,Upper Middle,Latin America & Caribbean,68.908,2.098,18436.3,0.114
+Greenland,GRL,High,Europe & Central Asia,NA,NA,NA,NA
+Guatemala,GTM,Upper Middle,Latin America & Caribbean,30.086,185.849,9931.43,18.713
+Guam,GUM,High,East Asia & Pacific,NA,NA,NA,NA
+Guyana,GUY,Upper Middle,Latin America & Caribbean,22.843,33.761,42646.64,0.792
+Hong Kong SAR China,HKG,High,East Asia & Pacific,3.326,518.743,69987.04,7.412
+Honduras,HND,Lower Middle,Latin America & Caribbean,50.229,69.684,6769.15,10.294
+Croatia,HRV,High,Europe & Central Asia,72.575,150.433,37549.8,4.006
+Haiti,HTI,Lower Middle,Latin America & Caribbean,23.059,38.198,3165.9,12.065
+Hungary,HUN,High,Europe & Central Asia,74.83,409.834,42132.31,9.727
+Indonesia,IDN,Lower Middle,East Asia & Pacific,40.894,4023.5,14638.41,274.859
+Isle of Man,IMN,High,Europe & Central Asia,NA,NA,NA,NA
+India,IND,Lower Middle,South Asia,83.398,11665.49,8293.2,1406.63
+Ireland,IRL,High,Europe & Central Asia,47.04,666.309,131034.14,5.085
+Iran,IRN,Lower Middle,Middle East & North Africa,34.172,1599.25,18663.23,85.69
+Iraq,IRQ,Upper Middle,Middle East & North Africa,36.723,524.21,12408.39,42.246
+Iceland,ISL,High,Europe & Central Asia,68.225,24.888,66466.99,0.374
+Israel,ISR,High,Middle East & North Africa,61.465,496.841,52173.08,9.523
+Italy,ITA,High,Europe & Central Asia,147.212,3022.16,51061.79,59.186
+Jamaica,JAM,Upper Middle,Latin America & Caribbean,86.227,32.818,11962.38,2.743
+Jordan,JOR,Upper Middle,Middle East & North Africa,90.992,123.351,11974.86,10.301
+Japan,JPN,High,East Asia & Pacific,263.919,6109.96,48812.76,125.171
+Kazakhstan,KAZ,Upper Middle,Europe & Central Asia,23.28,596.666,30827.31,19.355
+Kenya,KEN,Lower Middle,Sub-Saharan Africa,69.384,311.753,6121.95,50.924
+Kyrgyzstan,KGZ,Lower Middle,Europe & Central Asia,60.377,39.214,5771.06,6.795
+Cambodia,KHM,Lower Middle,East Asia & Pacific,36.753,89.289,5582.96,15.993
+Kiribati,KIR,Lower Middle,East Asia & Pacific,25.178,0.268,2164.86,0.124
+St. Kitts & Nevis,KNA,High,Latin America & Caribbean,56.514,1.619,27781.5,0.058
+South Korea,KOR,High,East Asia & Pacific,54.075,2765.83,53574.17,51.626
+Kuwait,KWT,High,Middle East & North Africa,7.125,248.113,51527.92,4.815
+Laos,LAO,Lower Middle,East Asia & Pacific,107.149,68.573,9166.25,7.481
+Lebanon,LBN,Lower Middle,Middle East & North Africa,150.583,77.651,11376.76,6.825
+Liberia,LBR,Low,Sub-Saharan Africa,55.111,8.841,1666.57,5.305
+Libya,LBY,Upper Middle,Middle East & North Africa,NA,128.389,18944.7,6.777
+St. Lucia,LCA,Upper Middle,Latin America & Caribbean,90.064,3.008,16417.4,0.183
+Liechtenstein,LIE,High,Europe & Central Asia,NA,NA,NA,NA
+Sri Lanka,LKA,Lower Middle,South Asia,130.526,318.69,14230.06,22.396
+Lesotho,LSO,Lower Middle,Sub-Saharan Africa,50.729,6.395,3027.68,2.112
+Lithuania,LTU,High,Europe & Central Asia,42.243,130.67,46158.6,2.831
+Luxembourg,LUX,High,Europe & Central Asia,25.431,91.107,141587.11,0.643
+Latvia,LVA,High,Europe & Central Asia,45.98,72.033,38123.99,1.889
+Macao SAR China,MAC,High,East Asia & Pacific,0,40.369,57929.41,0.697
+Saint Martin (French part),MAF,High,Latin America & Caribbean,NA,NA,NA,NA
+Morocco,MAR,Lower Middle,Middle East & North Africa,70.295,359.671,9808.32,36.67
+Monaco,MCO,High,Europe & Central Asia,NA,NA,NA,NA
+Moldova,MDA,Upper Middle,Europe & Central Asia,36.043,41.882,16482.63,2.541
+Madagascar,MDG,Low,Sub-Saharan Africa,53.823,51.849,1790.29,28.961
+Maldives,MDV,Upper Middle,South Asia,126.419,12.071,30888.26,0.391
+Mexico,MEX,Upper Middle,Latin America & Caribbean,56.823,2919.88,22440.14,130.118
+Marshall Islands,MHL,Upper Middle,East Asia & Pacific,20.768,0.245,4394.73,0.056
+North Macedonia,MKD,Upper Middle,Europe & Central Asia,53.797,40.927,19783.01,2.069
+Mali,MLI,Low,Sub-Saharan Africa,55.869,56.051,2608.76,21.486
+Malta,MLT,High,Middle East & North Africa,56.981,29.367,56337.69,0.521
+Myanmar (Burma),MMR,Lower Middle,East Asia & Pacific,62.507,260.274,4830.08,53.886
+Montenegro,MNE,Upper Middle,Europe & Central Asia,74.41,16.195,26032.37,0.622
+Mongolia,MNG,Lower Middle,East Asia & Pacific,84.368,47.115,13611.35,3.461
+Northern Mariana Islands,MNP,High,East Asia & Pacific,NA,NA,NA,NA
+Mozambique,MOZ,Low,Sub-Saharan Africa,102.436,48.04,1457.11,32.97
+Mauritania,MRT,Lower Middle,Sub-Saharan Africa,50.717,30.013,6924.85,4.334
+Mauritius,MUS,Upper Middle,Sub-Saharan Africa,90.857,32.013,25372.21,1.262
+Malawi,MWI,Low,Sub-Saharan Africa,73.326,35.078,1587.78,22.093
+Malaysia,MYS,Upper Middle,East Asia & Pacific,69.564,1096.51,33112.71,33.114
+Namibia,NAM,Upper Middle,Sub-Saharan Africa,71.799,28.021,10790.65,2.597
+New Caledonia,NCL,High,East Asia & Pacific,NA,NA,NA,NA
+Niger,NER,Low,Sub-Saharan Africa,57.142,37.648,1443.35,26.084
+Nigeria,NGA,Lower Middle,Sub-Saharan Africa,37.35,1275.3,5883.81,216.747
+Nicaragua,NIC,Lower Middle,Latin America & Caribbean,47.001,47.273,7154.43,6.607
+Netherlands,NLD,High,Europe & Central Asia,48.278,1226.66,69714.52,17.595
+Norway,NOR,High,Europe & Central Asia,40.311,425.612,78127.61,5.448
+Nepal,NPL,Lower Middle,South Asia,49.086,141.161,4676.57,30.185
+Nauru,NRU,High,East Asia & Pacific,27.334,0.145,10834.37,0.013
+New Zealand,NZL,High,East Asia & Pacific,56.603,261.039,50851.08,5.133
+Oman,OMN,High,Middle East & North Africa,45.372,190.475,41150,4.629
+Pakistan,PAK,Lower Middle,South Asia,77.751,1512.48,6662.11,227.027
+Panama,PAN,High,Latin America & Caribbean,55.625,159.863,36370.38,4.395
+Peru,PER,Upper Middle,Latin America & Caribbean,34.792,521.841,15273.23,34.167
+Philippines,PHL,Lower Middle,East Asia & Pacific,59.268,1154.88,10343.63,111.651
+Palau,PLW,Upper Middle,East Asia & Pacific,NA,0.236,13215.43,0.018
+Papua New Guinea,PNG,Lower Middle,East Asia & Pacific,49.909,39.083,4270.99,9.151
+Poland,POL,High,Europe & Central Asia,48.7,1599.02,42465.86,37.654
+Puerto Rico,PRI,High,Latin America & Caribbean,16.007,135.277,43820.1,3.087
+North Korea,PRK,Low,East Asia & Pacific,NA,NA,NA,NA
+Portugal,PRT,High,Europe & Central Asia,114.739,432.063,42066.5,10.271
+Paraguay,PRY,Upper Middle,Latin America & Caribbean,39.316,108.29,14528.42,7.454
+Palestinian Territories,PSE,Lower Middle,Middle East & North Africa,NA,NA,NA,NA
+French Polynesia,PYF,High,East Asia & Pacific,NA,NA,NA,NA
+Qatar,QAT,High,Middle East & North Africa,46.917,303.596,113674.65,2.671
+Romania,ROU,High,Europe & Central Asia,49.652,731.466,38096.84,19.2
+Russia,RUS,Upper Middle,Europe & Central Asia,16.191,4649.67,31967.03,145.452
+Rwanda,RWA,Low,Sub-Saharan Africa,68.116,37.586,2835.82,13.254
+Saudi Arabia,SAU,High,Middle East & North Africa,24.752,2018.26,55802.34,36.168
+Sudan,SDN,Low,Sub-Saharan Africa,189.542,207.713,4449.59,46.681
+Senegal,SEN,Lower Middle,Sub-Saharan Africa,77.281,72.703,4113.05,17.676
+Singapore,SGP,High,East Asia & Pacific,141.106,700.98,131425.71,5.334
+Solomon Islands,SLB,Lower Middle,East Asia & Pacific,19.206,1.671,2336.4,0.715
+Sierra Leone,SLE,Low,Sub-Saharan Africa,81.767,16.386,1972.04,8.309
+El Salvador,SLV,Lower Middle,Latin America & Caribbean,80.305,69.285,10576.06,6.551
+San Marino,SMR,High,Europe & Central Asia,86.485,2.452,72069.81,0.034
+Somalia,SOM,Low,Sub-Saharan Africa,NA,20.642,1322.03,15.614
+Serbia,SRB,Upper Middle,Europe & Central Asia,54.414,164.835,24084.41,6.844
+South Sudan,SSD,Low,Sub-Saharan Africa,52.284,13.633,934.404,14.59
+São Tomé & Príncipe,STP,Lower Middle,Sub-Saharan Africa,64.044,1.069,4709.57,0.227
+Suriname,SUR,Upper Middle,Latin America & Caribbean,133.951,10.707,17350.39,0.617
+Slovakia,SVK,High,Europe & Central Asia,60.508,211.118,38620.16,5.467
+Slovenia,SVN,High,Europe & Central Asia,69.528,105.45,49967.8,2.11
+Sweden,SWE,High,Europe & Central Asia,33.49,684.458,63877.42,10.715
+Eswatini,SWZ,Lower Middle,Sub-Saharan Africa,45.803,12.725,11053.99,1.151
+Sint Maarten,SXM,High,Latin America & Caribbean,NA,NA,NA,NA
+Seychelles,SYC,High,Sub-Saharan Africa,64.859,3.725,37660.94,0.099
+Syria,SYR,Low,Middle East & North Africa,30.024,136.359,6374.06,21.393
+Turks & Caicos Islands,TCA,High,Latin America & Caribbean,NA,NA,NA,NA
+Chad,TCD,Low,Sub-Saharan Africa,44.713,29.927,1718.58,17.414
+Togo,TGO,Low,Sub-Saharan Africa,66.053,22.781,2618.52,8.7
+Thailand,THA,Upper Middle,East Asia & Pacific,61.453,1479.64,21114.18,70.078
+Tajikistan,TJK,Lower Middle,Europe & Central Asia,39.385,47.241,4802.83,9.836
+Turkmenistan,TKM,Upper Middle,Europe & Central Asia,8.415,117.787,18875.2,6.24
+Timor-Leste,TLS,Lower Middle,East Asia & Pacific,11.163,5.347,3904.37,1.369
+Tonga,TON,Upper Middle,East Asia & Pacific,47.416,0.666,6663,0.1
+Trinidad & Tobago,TTO,High,Latin America & Caribbean,54.733,42.136,29797.28,1.414
+Tunisia,TUN,Lower Middle,Middle East & North Africa,88.761,151.495,12490.2,12.129
+Turkey,TUR,Upper Middle,Europe & Central Asia,37.483,3320.99,38759.39,85.682
+Tuvalu,TUV,Upper Middle,East Asia & Pacific,4.827,0.063,5843.67,0.011
+Taiwan,TWN,High,East Asia & Pacific,24.073,1621.7,69500.03,23.334
+Tanzania,TZA,Lower Middle,Sub-Saharan Africa,39.499,207.55,3374.25,61.51
+Uganda,UGA,Low,Sub-Saharan Africa,52.151,132.01,3018.46,43.734
+Ukraine,UKR,Lower Middle,Europe & Central Asia,47.587,588.448,14325.62,41.077
+Uruguay,URY,High,Latin America & Caribbean,61.24,96.81,27232.79,3.555
+United States,USA,High,North America,122.103,25035.16,75179.59,333.005
+Uzbekistan,UZB,Lower Middle,Europe & Central Asia,34.095,334.318,9478.46,35.271
+St. Vincent & Grenadines,VCT,Upper Middle,Latin America & Caribbean,87.905,1.751,15785.75,0.111
+British Virgin Islands,VGB,High,Latin America & Caribbean,NA,NA,NA,NA
+U.S. Virgin Islands,VIR,High,Latin America & Caribbean,NA,NA,NA,NA
+Vietnam,VNM,Lower Middle,East Asia & Pacific,40.207,1299.69,13074.99,99.403
+Vanuatu,VUT,Lower Middle,East Asia & Pacific,50.395,0.922,2857.96,0.323
+Samoa,WSM,Lower Middle,East Asia & Pacific,46.364,1.183,5882.45,0.201
+Kosovo,XKX,Upper Middle,Europe & Central Asia,NA,NA,NA,NA
+Yemen,YEM,Low,Middle East & North Africa,53.996,67.454,2136.28,31.576
+South Africa,ZAF,Upper Middle,Sub-Saharan Africa,67.987,949.846,15555.9,61.06
+Zambia,ZMB,Low,Sub-Saharan Africa,119.141,76.325,3808.05,20.043
+Zimbabwe,ZWE,Lower Middle,Sub-Saharan Africa,92.635,40.408,2554.73,15.817
