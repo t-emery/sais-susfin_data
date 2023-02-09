@@ -24,9 +24,9 @@ and Methods</figcaption>
 
 <table style="width:100%;">
 <colgroup>
-<col style="width: 44%" />
-<col style="width: 46%" />
-<col style="width: 8%" />
+<col style="width: 32%" />
+<col style="width: 64%" />
+<col style="width: 3%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -64,6 +64,17 @@ Bank with features useful for international cross-country analysis.</p>
 <li><p>Population (mn)</p></li>
 </ul></li>
 </ul></td>
+<td>2022-10</td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://github.com/t-emery/sais-susfin_data/blob/main/datasets/etf_comparison-2022-10-03.csv">ESG
+vs. Standard ETF Holdings Comparison</a></td>
+<td>A pre-cleaned dataset comparing the holdings of BlackRock’s largest
+standard ETF <a
+href="https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf">(IVV</a>)
+versus the holdings of the largest ESG ETF (<a
+href="https://www.ishares.com/us/products/286007/?referrer=tickerSearch">ESGU</a>)</td>
 <td>2022-10</td>
 </tr>
 </tbody>
