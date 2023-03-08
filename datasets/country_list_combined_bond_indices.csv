@@ -1,0 +1,159 @@
+country_name,iso3c,value_pct,index,em_dm
+Australia,AUS,0.04692378933176545,Developed Markets,Developed Markets
+Austria,AUT,0.045722916150316706,Developed Markets,Developed Markets
+Belgium,BEL,0.04605351394129809,Developed Markets,Developed Markets
+Canada,CAN,0.04801425928136193,Developed Markets,Developed Markets
+Denmark,DNK,0.04709964899320558,Developed Markets,Developed Markets
+Finland,FIN,0.046204357885845405,Developed Markets,Developed Markets
+France,FRA,0.0816380915381149,Developed Markets,Developed Markets
+Germany,DEU,0.05960425030003911,Developed Markets,Developed Markets
+Ireland,IRL,0.04629115315826789,Developed Markets,Developed Markets
+Israel,ISR,0.04681709434815131,Developed Markets,Developed Markets
+Italy,ITA,0.07261947068129018,Developed Markets,Developed Markets
+Japan,JPN,0.16523678579302398,Developed Markets,Developed Markets
+South Korea,KOR,3.6656523206992266e-8,Developed Markets,Developed Markets
+Netherlands,NLD,0.04618793286723752,Developed Markets,Developed Markets
+Norway,NOR,0.033147854841704565,Developed Markets,Developed Markets
+Singapore,SGP,0.04718279452085517,Developed Markets,Developed Markets
+Spain,ESP,0.04767205295736854,Developed Markets,Developed Markets
+Sweden,SWE,0.03835149158402827,Developed Markets,Developed Markets
+Switzerland,CHE,3.9051733054751045e-6,Developed Markets,Developed Markets
+United Kingdom,GBR,0.049049475842015966,Developed Markets,Developed Markets
+United States,USA,-0.013820875845719192,Developed Markets,Developed Markets
+Brazil,BRA,0.04622566524194388,EM - Local Currency,Emerging Markets
+Chile,CHL,0.046375793904375795,EM - Local Currency,Emerging Markets
+China,CHN,0.12265285702479907,EM - Local Currency,Emerging Markets
+Colombia,COL,0.04474840169140205,EM - Local Currency,Emerging Markets
+Czechia,CZE,0.04461984704914825,EM - Local Currency,Emerging Markets
+Dominican Republic,DOM,0.04306503108614069,EM - Local Currency,Emerging Markets
+Egypt,EGY,0.022655114983746654,EM - Local Currency,Emerging Markets
+Hungary,HUN,0.044543327560308446,EM - Local Currency,Emerging Markets
+Indonesia,IDN,0.04496158559625074,EM - Local Currency,Emerging Markets
+Malaysia,MYS,0.04469712737395388,EM - Local Currency,Emerging Markets
+Mexico,MEX,0.04485736328102458,EM - Local Currency,Emerging Markets
+Peru,PER,0.04579594733048281,EM - Local Currency,Emerging Markets
+Philippines,PHL,0.044939794253781196,EM - Local Currency,Emerging Markets
+Poland,POL,0.04380269358811234,EM - Local Currency,Emerging Markets
+Romania,ROU,0.04432634408824714,EM - Local Currency,Emerging Markets
+Russia,RUS,0.044331371594461315,EM - Local Currency,Emerging Markets
+Serbia,SRB,0.04513643321371172,EM - Local Currency,Emerging Markets
+South Africa,ZAF,0.04525661217621258,EM - Local Currency,Emerging Markets
+Thailand,THA,0.04483197689551352,EM - Local Currency,Emerging Markets
+Turkey,TUR,0.04623231092585672,EM - Local Currency,Emerging Markets
+Uruguay,URY,0.04594440114052664,EM - Local Currency,Emerging Markets
+Angola,AGO,0.011949963252144515,EM - Hard Currency,Emerging Markets
+Argentina,ARG,0.013971562808294737,EM - Hard Currency,Emerging Markets
+Azerbaijan,AZE,0.008182923406154983,EM - Hard Currency,Emerging Markets
+Bahrain,BHR,0.02816901413717825,EM - Hard Currency,Emerging Markets
+Bolivia,BOL,0.0012563351541626275,EM - Hard Currency,Emerging Markets
+Brazil,BRA,0.03308643814623864,EM - Hard Currency,Emerging Markets
+Chile,CHL,0.031127269511703574,EM - Hard Currency,Emerging Markets
+China,CHN,0.03793337841811007,EM - Hard Currency,Emerging Markets
+Colombia,COL,0.029648547691925684,EM - Hard Currency,Emerging Markets
+Costa Rica,CRI,0.0049073518217772165,EM - Hard Currency,Emerging Markets
+Côte d’Ivoire,CIV,0.0018923838167576288,EM - Hard Currency,Emerging Markets
+Croatia,HRV,0.004750217420044066,EM - Hard Currency,Emerging Markets
+Dominican Republic,DOM,0.029592492699451203,EM - Hard Currency,Emerging Markets
+Ecuador,ECU,0.017329653023981515,EM - Hard Currency,Emerging Markets
+Egypt,EGY,0.02658741248969794,EM - Hard Currency,Emerging Markets
+El Salvador,SLV,0.002494843866587332,EM - Hard Currency,Emerging Markets
+Ethiopia,ETH,0.0011016165254478317,EM - Hard Currency,Emerging Markets
+Gabon,GAB,0.0014568841086990785,EM - Hard Currency,Emerging Markets
+Ghana,GHA,0.012635838282508418,EM - Hard Currency,Emerging Markets
+Guatemala,GTM,0.0022629356209979902,EM - Hard Currency,Emerging Markets
+Hungary,HUN,0.014626377986084403,EM - Hard Currency,Emerging Markets
+India,IND,0.005800226460088806,EM - Hard Currency,Emerging Markets
+Indonesia,IDN,0.04943467807591155,EM - Hard Currency,Emerging Markets
+Iraq,IRQ,0.004104911850923926,EM - Hard Currency,Emerging Markets
+Jamaica,JAM,0.008627924749540404,EM - Hard Currency,Emerging Markets
+Jordan,JOR,0.006298321317929953,EM - Hard Currency,Emerging Markets
+Kazakhstan,KAZ,0.019287184579314724,EM - Hard Currency,Emerging Markets
+Kenya,KEN,0.009202331262130757,EM - Hard Currency,Emerging Markets
+Kuwait,KWT,0.007053548739373058,EM - Hard Currency,Emerging Markets
+Lebanon,LBN,0.001379226838231734,EM - Hard Currency,Emerging Markets
+Malaysia,MYS,0.02669625221892373,EM - Hard Currency,Emerging Markets
+Mexico,MEX,0.05655232462870354,EM - Hard Currency,Emerging Markets
+Morocco,MAR,0.002936756329757641,EM - Hard Currency,Emerging Markets
+Nigeria,NGA,0.01888896617104055,EM - Hard Currency,Emerging Markets
+Oman,OMN,0.03142730876082439,EM - Hard Currency,Emerging Markets
+Pakistan,PAK,0.008529661355604562,EM - Hard Currency,Emerging Markets
+Panama,PAN,0.030303606088335037,EM - Hard Currency,Emerging Markets
+Paraguay,PRY,0.0052363906319977905,EM - Hard Currency,Emerging Markets
+Peru,PER,0.0319158605811084,EM - Hard Currency,Emerging Markets
+Philippines,PHL,0.03538887013838681,EM - Hard Currency,Emerging Markets
+Poland,POL,0.008421775033718621,EM - Hard Currency,Emerging Markets
+Qatar,QAT,0.04440850767370559,EM - Hard Currency,Emerging Markets
+Romania,ROU,0.013739438801640786,EM - Hard Currency,Emerging Markets
+Russia,RUS,0.03547171098757989,EM - Hard Currency,Emerging Markets
+Saudi Arabia,SAU,0.04735907119976381,EM - Hard Currency,Emerging Markets
+Senegal,SEN,0.0030404908714837964,EM - Hard Currency,Emerging Markets
+Serbia,SRB,0.0015734684876878569,EM - Hard Currency,Emerging Markets
+South Africa,ZAF,0.029086359106748994,EM - Hard Currency,Emerging Markets
+Sri Lanka,LKA,0.007870783129938181,EM - Hard Currency,Emerging Markets
+Trinidad & Tobago,TTO,0.001494003909879202,EM - Hard Currency,Emerging Markets
+Tunisia,TUN,0.0011227132328226002,EM - Hard Currency,Emerging Markets
+Turkey,TUR,0.040068192051544896,EM - Hard Currency,Emerging Markets
+Ukraine,UKR,0.020416977048811236,EM - Hard Currency,Emerging Markets
+United Arab Emirates,ARE,0.0452322041541992,EM - Hard Currency,Emerging Markets
+Uruguay,URY,0.022252090094479548,EM - Hard Currency,Emerging Markets
+Venezuela,VEN,3.712496708222895e-4,EM - Hard Currency,Emerging Markets
+Vietnam,VNM,0.0015879787646088358,EM - Hard Currency,Emerging Markets
+Zambia,ZMB,0.002455194814489594,EM - Hard Currency,Emerging Markets
+Angola,AGO,0.014131437219716454,EM - USD (sov only),Emerging Markets
+Argentina,ARG,0.01652208115797432,EM - USD (sov only),Emerging Markets
+Azerbaijan,AZE,0.004222996741822494,EM - USD (sov only),Emerging Markets
+Bahrain,BHR,0.031423789372794886,EM - USD (sov only),Emerging Markets
+Bolivia,BOL,0.0014856799961109422,EM - USD (sov only),Emerging Markets
+Brazil,BRA,0.03783094915906333,EM - USD (sov only),Emerging Markets
+Chile,CHL,0.024942800862268976,EM - USD (sov only),Emerging Markets
+China,CHN,0.014811282298257207,EM - USD (sov only),Emerging Markets
+Colombia,COL,0.035060910357948456,EM - USD (sov only),Emerging Markets
+Costa Rica,CRI,0.005803192254341106,EM - USD (sov only),Emerging Markets
+Côte d’Ivoire,CIV,0.0022378397772326837,EM - USD (sov only),Emerging Markets
+Croatia,HRV,0.0056173728600637865,EM - USD (sov only),Emerging Markets
+Dominican Republic,DOM,0.0349946224882462,EM - USD (sov only),Emerging Markets
+Ecuador,ECU,0.020493193040063636,EM - USD (sov only),Emerging Markets
+Egypt,EGY,0.03144096283019498,EM - USD (sov only),Emerging Markets
+El Salvador,SLV,0.0029502793213482576,EM - USD (sov only),Emerging Markets
+Ethiopia,ETH,0.0013027173758692948,EM - USD (sov only),Emerging Markets
+Gabon,GAB,0.0017228392995090537,EM - USD (sov only),Emerging Markets
+Ghana,GHA,0.014942519206133379,EM - USD (sov only),Emerging Markets
+Guatemala,GTM,0.0026760360668602362,EM - USD (sov only),Emerging Markets
+Hungary,HUN,0.017296433294479132,EM - USD (sov only),Emerging Markets
+India,IND,0,EM - USD (sov only),Emerging Markets
+Indonesia,IDN,0.04570953396492215,EM - USD (sov only),Emerging Markets
+Iraq,IRQ,0.004854266317797378,EM - USD (sov only),Emerging Markets
+Jamaica,JAM,0.010202958315598807,EM - USD (sov only),Emerging Markets
+Jordan,JOR,0.007448084183686206,EM - USD (sov only),Emerging Markets
+Kazakhstan,KAZ,0.013016756236118856,EM - USD (sov only),Emerging Markets
+Kenya,KEN,0.010882223130058396,EM - USD (sov only),Emerging Markets
+Kuwait,KWT,0.008341178887623167,EM - USD (sov only),Emerging Markets
+Lebanon,LBN,0.0016310056411865579,EM - USD (sov only),Emerging Markets
+Malaysia,MYS,0.003648084697053096,EM - USD (sov only),Emerging Markets
+Mexico,MEX,0.03587980097668914,EM - USD (sov only),Emerging Markets
+Morocco,MAR,0.0034728632070167584,EM - USD (sov only),Emerging Markets
+Nigeria,NGA,0.022337159868964875,EM - USD (sov only),Emerging Markets
+Oman,OMN,0.037164385476962464,EM - USD (sov only),Emerging Markets
+Pakistan,PAK,0.0100867568718704,EM - USD (sov only),Emerging Markets
+Panama,PAN,0.032363282956743095,EM - USD (sov only),Emerging Markets
+Paraguay,PRY,0.006192297324488313,EM - USD (sov only),Emerging Markets
+Peru,PER,0.03387553281755799,EM - USD (sov only),Emerging Markets
+Philippines,PHL,0.04014412589281705,EM - USD (sov only),Emerging Markets
+Poland,POL,0.009959175828110811,EM - USD (sov only),Emerging Markets
+Qatar,QAT,0.04186445868656297,EM - USD (sov only),Emerging Markets
+Romania,ROU,0.016247582755091725,EM - USD (sov only),Emerging Markets
+Russia,RUS,0.03933396332170031,EM - USD (sov only),Emerging Markets
+Saudi Arabia,SAU,0.05600450204927965,EM - USD (sov only),Emerging Markets
+Senegal,SEN,0.003595534560307837,EM - USD (sov only),Emerging Markets
+Serbia,SRB,0.001860706236646613,EM - USD (sov only),Emerging Markets
+South Africa,ZAF,0.02894024573942489,EM - USD (sov only),Emerging Markets
+Sri Lanka,LKA,0.009307599975319129,EM - USD (sov only),Emerging Markets
+Trinidad & Tobago,TTO,0.0017667353457911322,EM - USD (sov only),Emerging Markets
+Tunisia,TUN,0.0013276653016092146,EM - USD (sov only),Emerging Markets
+Turkey,TUR,0.047382667924299744,EM - USD (sov only),Emerging Markets
+Ukraine,UKR,0.024144110177902873,EM - USD (sov only),Emerging Markets
+United Arab Emirates,ARE,0.03800933830268885,EM - USD (sov only),Emerging Markets
+Uruguay,URY,0.026314224365600526,EM - USD (sov only),Emerging Markets
+Venezuela,VEN,0,EM - USD (sov only),Emerging Markets
+Vietnam,VNM,0.0018778653745471182,EM - USD (sov only),Emerging Markets
+Zambia,ZMB,0.0029033923076630984,EM - USD (sov only),Emerging Markets
