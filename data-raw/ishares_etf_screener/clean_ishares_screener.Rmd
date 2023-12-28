@@ -1,0 +1,76 @@
+---
+title: "Cleaning the ishares ETF screener"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(here)
+library(janitor)
+```
+
+Download file from this page (go to Download -> Download Filtered Funds (XLS): https://www.ishares.com/us/products/etf-investments#/?productView=etf&pageNumber=1&sortColumn=totalNetAssets&sortDirection=desc&dataView=keyFacts
+
+It is an XML spreadsheet. Save it to this folder as an .xlsx file, and put the as of date in the file name.
+
+
+Find the files in the folder
+```{r}
+etf_path <- partial(here,"data-raw", "ishares_etf_screener")
+
+etf_path() %>% list.files()
+```
+
+replace it with the file name you downloaded
+```{r}
+etf_screener_raw <- etf_path("iShares-UnitedStates-as-of-2023-12-27.xlsx") |> 
+  read_excel(na = "-") |> 
+  clean_names() 
+  
+
+etf_screener_raw
+```
+The column names are in the first two rows.  This is our down and dirty way of fixing that that suffices for our purposes here.
+```{r}
+fixed_colnames <- paste0(colnames(etf_screener_raw), etf_screener_raw[1, ]) |> 
+  str_remove_all(pattern = "NA|x[:digit:]{2}") |> 
+  make_clean_names()
+
+fixed_colnames
+```
+```{r}
+etf_screener_fixed_columns <- etf_screener_raw |> 
+  rename_with(.cols = everything(), .fn = ~fixed_colnames) 
+
+etf_screener_fixed_columns |> glimpse()
+```
+
+Process the data to get the columns we want.
+```{r}
+etf_screener_processed <- etf_screener_fixed_columns |> 
+  filter(!is.na(name)) |>
+  select(ticker, name,incept_date:investment_style,
+         sustainability_characteristics_msci_esg_fund_ratings_msci_esg_fund_rating_aaa_ccc:sustainable_classification) |> 
+  rename(msci_esg_fund_rating_aaa_ccc = sustainability_characteristics_msci_esg_fund_ratings_msci_esg_fund_rating_aaa_ccc)
+
+etf_screener_processed |> glimpse()
+```
+
+Get the as of date from the data
+```{r}
+as_of_date <- etf_screener_processed |> 
+  pull(net_assets_as_of) |> 
+  max() |> 
+  as.Date()
+
+as_of_date
+```
+
+Save the data
+```{r}
+write_csv(etf_screener_processed, here("datasets", paste0("ishares_etf_screener_as_of_", as_of_date, ".csv")))
+```
+
+
+xxx

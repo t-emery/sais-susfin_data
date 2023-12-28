@@ -1,10 +1,8 @@
-SAIS - Sustainable Finance: Applications & Methods - Data Repo
-================
+# SAIS - Sustainable Finance: Applications & Methods - Data Repo
 Teal Emery
 
-- <a href="#introduction" id="toc-introduction">Introduction</a>
-- <a href="#datasets-descriptions" id="toc-datasets-descriptions">Datasets
-  &amp; Descriptions</a>
+- [Introduction](#introduction)
+- [Datasets & Descriptions](#datasets-descriptions)
 
 # Introduction
 
@@ -12,20 +10,16 @@ This page will house mini datasets used for teaching applied data
 analysis for **Sustainable Finance: Applications and Methods at [Johns
 Hopkins SAIS](https://sais.jhu.edu/).**
 
-<figure>
 <img src="images/SAIS%20Course%20-%20Cover%20Art.png"
 data-fig-align="center"
 alt="SAIS - Sustainable Finance: Applications and Methods" />
-<figcaption aria-hidden="true">SAIS - Sustainable Finance: Applications
-and Methods</figcaption>
-</figure>
 
 # Datasets & Descriptions
 
 <table style="width:100%;">
 <colgroup>
 <col style="width: 32%" />
-<col style="width: 64%" />
+<col style="width: 63%" />
 <col style="width: 3%" />
 </colgroup>
 <thead>
@@ -38,11 +32,11 @@ and Methods</figcaption>
 <tbody>
 <tr class="odd">
 <td><a
-href="https://github.com/t-emery/sais-susfin_data/blob/main/datasets/blackrock_etf_screener_2022-08-30.csv">BlackRock
-ETF Screener</a></td>
+href="https://github.com/t-emery/sais-susfin_data/blob/main/datasets/ishares_etf_screener_as_of_2023-12-27.csv">BlackRock
+iShares ETF Screener</a></td>
 <td>iShares ETF Screener cleaned up + added features to do data analysis
 on BlackRock’s ESG ETF offerings.</td>
-<td>2022-08-30</td>
+<td>2023-12-27</td>
 </tr>
 <tr class="even">
 <td><a
